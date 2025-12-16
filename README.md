@@ -1,3 +1,4 @@
+
 # Automation-Script-Pack
 Python scripts to automate repetitive tasks like file renaming, data extraction, and sending emails, strengthening skills in scripting, Regex, and automation.
 📌 Overview
@@ -55,6 +56,8 @@ Select a tool by typing the corresponding number (1-4).
 <img width="888" height="118" alt="Screenshot 2025-12-16 130006" src="https://github.com/user-attachments/assets/90ba8fb6-6c12-49eb-9b3c-8fb680b5a2b9" />
 <img width="1023" height="355" alt="Screenshot 2025-12-16 130050" src="https://github.com/user-attachments/assets/d2fbfb4f-7bef-4aaa-afc9-faf20dd6570b" />
 <img width="1011" height="457" alt="Screenshot 2025-12-16 130315" src="https://github.com/user-attachments/assets/88fd0f26-1f11-44de-9168-f1eac3ff1c14" />
+<img width="925" height="713" alt="image" src="https://github.com/user-attachments/assets/13a88c62-448b-4f14-b2fd-d668bd8fc36d" />
+
 
 
 
