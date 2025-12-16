@@ -1,0 +1,34 @@
+hellow
+
+here is Ayush Ojha
+
+Ayush@gmail.com
+
+1234684
+
+CONFIDENTIAL PROJECT REPORT - BATCH 2024
+
+Summary:
+The automation team has successfully deployed the first phase of the Python script pack. 
+Below are the contact details for the lead developers and support staff involved in this project.
+
+Primary Contacts:
+1. Lead Developer: Sarah Jenkins
+   Email: sarah.jenkins@techcorp.com
+   Phone: 9876543210
+
+2. Project Manager: David Ross
+   Email: david.ross88@business-solutions.net
+   Phone: +1 5550199888
+
+3. Technical Support Team
+   Please verify all tickets before submission.
+   Email: support@helpdesk.io
+   Hotline: 1234567890
+
+Notes:
+- The server IP is 192.168.1.1 (This should not be extracted as a phone number).
+- Project ID: 4521 (Too short to be a phone number).
+- Urgent escalations can be sent to admin_secure@server.co.uk.
+
+End of Report.
